@@ -1,3 +1,1 @@
-
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-agency/)**
+https://cotto99.github.io/pagdemo/
